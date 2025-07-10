@@ -152,7 +152,7 @@
 | 🎭 Role | ⭐ Stars | 📊 Level | 🎖️ Promotion |
 |---------|----------|----------|-------------|
 | **Ground** | 8⭐ | L15 | Promo 3 |
-| **Ground** | 10⭐ | L15 | Promo 4 |
+| **Mount** | 10⭐ | L15 | Promo 4 |
 
 ### Leading Senator (Level 2)
 
