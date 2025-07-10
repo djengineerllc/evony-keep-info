@@ -1,3 +1,19 @@
-   theme: jekyll-theme-slate
-   title: DJ Keep Information
-   description: Comprehensive Evony Keep Analysis
+theme: jekyll-theme-slate
+title: DJ Keep Information
+description: Comprehensive Evony Keep Analysis
+
+# Markdown processing
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  
+# Plugins
+plugins:
+  - jekyll-github-metadata
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Enable GitHub-flavored markdown
+gfm_quirks: paragraph_end 
