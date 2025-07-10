@@ -522,10 +522,7 @@
 
 ## ⚔️ March Layer Configurations
 
-<details>
-  
-<summary>📋 Click to expand detailed march configurations</summary>
-
+>📋 Click to expand detailed march configurations
 
 ### 🏰 Big Siege Configuration
 
@@ -538,7 +535,6 @@
 | **T11** | 0.5M | 1K | 1K | 1K |
 | **T10-T01** | 10K-100K | 1K | 1K | 1K |
 
-
 ### 🏰 Little Siege Configuration  
 
 | Tier | 🏰 Siege | 🪖 Ground | 🏹 Range | 🐎 Cavalry |
@@ -550,7 +546,6 @@
 | **T11** | 2,920,250 | 1K | 1K | 1K |
 | **T10-T01** | 10K-100K | 1K | 1K | 1K |
 
-
 ### 🪖 Primary Ground Configuration
 
 | Tier | 🪖 Ground | 🏹 Range | 🐎 Cavalry | 🏰 Siege |
@@ -560,7 +555,6 @@
 | **T13** | 1.5M | 1K | 1K | 1K |
 | **T12-T01** | 1K | 1K | 1K | 1K |
 
-
 ### 🪖 Secondary Ground/RF Configuration
 
 | Tier | 🪖 Ground | 🏹 Range | 🐎 Cavalry | 🏰 Siege |
@@ -569,7 +563,6 @@
 | **T14** | 1,806,550 | 1K | 1K | 1K |
 | **T13** | 1.5M | 1K | 1K | 1K |
 | **T12-T01** | 1K | 1K | 1K | 1K |
-
 
 ### 🏹 Primary Range Configuration
 
@@ -581,7 +574,6 @@
 | **T12** | 2,000,950 | 1K | 1K | 1K |
 | **T11-T01** | 1K | 1K | 1K | 1K |
 
-
 ### 🏹 Secondary Range/RF Configuration
 
 | Tier | 🏹 Range | 🪖 Ground | 🐎 Cavalry | 🏰 Siege |
@@ -592,7 +584,6 @@
 | **T12** | 1,717,150 | 1K | 1K | 1K |
 | **T11-T01** | 1K | 1K | 1K | 1K |
 
-
 ### 🐎 Primary Mount Configuration
 
 | Tier | 🐎 Cavalry | 🪖 Ground | 🏹 Range | 🏰 Siege |
@@ -602,10 +593,6 @@
 | **T13** | 1.5M | 1K | 1K | 1K |
 | **T12** | 250K | 1K | 1K | 1K |
 | **T11-T01** | 1K | 1K | 1K | 1K |
-
-
-</details>
-
 
 ---
 
@@ -716,7 +703,6 @@ T01 Analysis:
 - **Research:** 100% Academy completion ✅
 
 ### 🏆 Recent Major Accomplishments
-- ✅ Completed all troop deficit training (T12-T15)
 - ✅ Achieved Keep Level 42 with full infrastructure support
 - ✅ Established sustainable march configurations for all troop types
 - ✅ Optimized resource production and management systems
