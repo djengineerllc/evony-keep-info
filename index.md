@@ -523,7 +523,9 @@
 ## ⚔️ March Layer Configurations
 
 <details>
+  
 <summary>📋 Click to expand detailed march configurations</summary>
+
 
 ### 🏰 Big Siege Configuration
 
@@ -536,6 +538,7 @@
 | **T11** | 0.5M | 1K | 1K | 1K |
 | **T10-T01** | 10K-100K | 1K | 1K | 1K |
 
+
 ### 🏰 Little Siege Configuration  
 
 | Tier | 🏰 Siege | 🪖 Ground | 🏹 Range | 🐎 Cavalry |
@@ -547,6 +550,7 @@
 | **T11** | 2,920,250 | 1K | 1K | 1K |
 | **T10-T01** | 10K-100K | 1K | 1K | 1K |
 
+
 ### 🪖 Primary Ground Configuration
 
 | Tier | 🪖 Ground | 🏹 Range | 🐎 Cavalry | 🏰 Siege |
@@ -556,6 +560,7 @@
 | **T13** | 1.5M | 1K | 1K | 1K |
 | **T12-T01** | 1K | 1K | 1K | 1K |
 
+
 ### 🪖 Secondary Ground/RF Configuration
 
 | Tier | 🪖 Ground | 🏹 Range | 🐎 Cavalry | 🏰 Siege |
@@ -564,6 +569,7 @@
 | **T14** | 1,806,550 | 1K | 1K | 1K |
 | **T13** | 1.5M | 1K | 1K | 1K |
 | **T12-T01** | 1K | 1K | 1K | 1K |
+
 
 ### 🏹 Primary Range Configuration
 
@@ -575,6 +581,7 @@
 | **T12** | 2,000,950 | 1K | 1K | 1K |
 | **T11-T01** | 1K | 1K | 1K | 1K |
 
+
 ### 🏹 Secondary Range/RF Configuration
 
 | Tier | 🏹 Range | 🪖 Ground | 🐎 Cavalry | 🏰 Siege |
@@ -584,6 +591,7 @@
 | **T13** | 1.0M | 1K | 1K | 1K |
 | **T12** | 1,717,150 | 1K | 1K | 1K |
 | **T11-T01** | 1K | 1K | 1K | 1K |
+
 
 ### 🐎 Primary Mount Configuration
 
@@ -595,7 +603,9 @@
 | **T12** | 250K | 1K | 1K | 1K |
 | **T11-T01** | 1K | 1K | 1K | 1K |
 
+
 </details>
+
 
 ---
 
