@@ -15,6 +15,7 @@
 ## ⚔️ Troop Composition
 
 ### High-Tier Troops (T15-T12)
+
 | Tier | 🪖 Ground | 🏹 Range | 🐎 Cavalry | 🏰 Siege |
 |------|-----------|----------|------------|----------|
 | **T15** | 1.50M | 0.834M | 0.356M | 0.443M |
@@ -23,6 +24,7 @@
 | **T12** | 1.90M | 3.732M | 0.60M | 1.519M |
 
 ### Mid-Tier Troops (T11-T08)
+
 | Tier | 🪖 Ground | 🏹 Range | 🐎 Cavalry | 🏰 Siege |
 |------|-----------|----------|------------|----------|
 | **T11** | 2.00M | 2.034M | 0.60M | 6.185M |
@@ -31,6 +33,7 @@
 | **T08** | 2.00M | 2.09M | 0.70M | 0.90M |
 
 ### Low-Tier Troops (T07-T01)
+
 | Tier | 🪖 Ground | 🏹 Range | 🐎 Cavalry | 🏰 Siege |
 |------|-----------|----------|------------|----------|
 | **T07** | 2.00M | 2.00M | 0.80M | 1.00M |
@@ -60,6 +63,7 @@
 ## 🏯 Sub-Cities Overview
 
 ### Epic Sub-Cities
+
 | 🏯 Level | 🌏 Culture | 📍 Status |
 |----------|------------|-----------|
 | **L33** | Russia | 🌟 Main Sub-City |
@@ -73,6 +77,7 @@
 | **L17** | Japan | 🎯 Upgrade Target |
 
 ### Legendary Sub-Cities
+
 | 🏯 Level | 🌏 Culture | 📍 Status |
 |----------|------------|-----------|
 | **L25** | Russia | 🎯 Upgrade Target |
@@ -84,6 +89,7 @@
 ## 👥 Duty Officers
 
 ### Super & Special Officers
+
 | 👤 Officer | ⭐ Stars | 🏢 Position | 🎽 Equipment |
 |------------|----------|-------------|--------------|
 | **John Hawkwood** | 8⭐ | Super Archer Camp | Staff + Robe |
@@ -94,6 +100,7 @@
 | **Eulji Mundeok** | 8⭐ | Super Academy | Boots + Crown + Leg Armor + Ring |
 
 ### Medium & Junior Officers
+
 | 👤 Officer | ⭐ Stars | 🏢 Position | 🎽 Equipment |
 |------------|----------|-------------|--------------|
 | **Abd al-Rahman I** | 8⭐ | Senior Barracks | Staff |
@@ -102,6 +109,7 @@
 | **Askia Muhammad I** | 9⭐ | Senior Trap Factory | None |
 
 ### Senior Officers
+
 | 👤 Officer | ⭐ Stars | 🏢 Position | 🎽 Equipment |
 |------------|----------|-------------|--------------|
 | **Minamoto no Yoshitsune** | -⭐ | Senior Warehouse | None |
@@ -117,6 +125,7 @@
 ## 🏛️ Senate Configuration
 
 ### Governor (Level 5)
+
 | 🎭 Role | ⭐ Stars | 📊 Level | 🎖️ Promotion |
 |---------|----------|----------|-------------|
 | **Ground** | 10⭐ | L22 | Promo 6 |
@@ -125,6 +134,7 @@
 | **Siege** | 10⭐ | L22 | Promo 4 |
 
 ### Commander (Level 5)
+
 | 🎭 Role | ⭐ Stars | 📊 Level | 🎖️ Promotion |
 |---------|----------|----------|-------------|
 | **Ground** | 10⭐ | L20 | Promo 3 |
@@ -133,6 +143,7 @@
 | **Siege** | 10⭐ | L20 | Promo 3 |
 
 ### Marshal (Level 3)
+
 | 🎭 Role | ⭐ Stars | 📊 Level | 🎖️ Promotion |
 |---------|----------|----------|-------------|
 | **Ground** | 10⭐ | L20 | Promo 3 |
@@ -141,6 +152,7 @@
 | **Siege** | 🔒 Locked | - | - |
 
 ### Leading Senator (Level 2)
+
 | 🎭 Role | ⭐ Stars | 📊 Level | 🎖️ Promotion |
 |---------|----------|----------|-------------|
 | **Ground** | 9⭐ | L20 | Promo 5 |
@@ -149,6 +161,7 @@
 | **Siege** | 🔒 Locked | - | - |
 
 ### Ruling Senator (Level 2)
+
 | 🎭 Role | ⭐ Stars | 📊 Level | 🎖️ Promotion |
 |---------|----------|----------|-------------|
 | **Ground** | 7⭐ | L20 | Promo 5 |
@@ -157,6 +170,7 @@
 | **Siege** | 🔒 Locked | - | - |
 
 ### Honorary Senator (Level 2)
+
 | 🎭 Role | ⭐ Stars | 📊 Level | 🎖️ Promotion |
 |---------|----------|----------|-------------|
 | **Ground** | 6⭐ | L20 | Promo 5 |
@@ -171,6 +185,7 @@
 ## 🐉 Spiritual Beast Configuration
 
 ### Active Beasts (L10 - On Sub Generals)
+
 | 🐉 Beast | 🎨 Quality | 🔒 Seal Level | 📍 Assignment |
 |----------|-------------|---------------|---------------|
 | **Duneyrr** | 🟡 Gold | L32 | Sub General (Hojo Ujiyasu) |
@@ -186,12 +201,14 @@
 | **Pegasus** | 🟡 Gold | L39 | Sub General (Andrew Jackson) |
 
 ### Main Combat Beasts (L14+ - On Primary Generals)
+
 | 🐉 Beast | 🎨 Quality | 📊 Level | 📍 Assignment |
 |----------|-------------|----------|---------------|
 | **Bird of Hurricane** | 🔴 Red | L16 | Secondary Mount General |
 | **Lord of Lava** | 🔴 Red | L19 | Secondary Ground General |
 
 ### Available Beasts (Not Currently Used)
+
 | 🐉 Beast | 🎨 Quality | 📊 Level | 📍 Status |
 |----------|-------------|----------|-----------|
 | **Behemoth King** | 🔴 Red | L16 | 🎯 Priority Upgrade |
@@ -204,6 +221,7 @@
 ## ⚔️ Main General Equipment Setup
 
 ### Defense General - William Marshall
+
 | 🎽 Equipment | ⭐ Stars | 🎨 Set | 💎 Refines |
 |-------------|----------|--------|------------|
 | **Bow** | 8⭐ | Koryo | 🟡 Gold |
@@ -216,6 +234,7 @@
 **Refine Focus:** Siege Attack %, Ground Defense %, Mount Flat HP
 
 ### Siege General - Romulus
+
 | 🎽 Equipment | ⭐ Stars | 🎨 Set | 💎 Refines |
 |-------------|----------|--------|------------|
 | **Heian Tachi** | 5⭐ | Heian | 🟡 Gold Siege % |
@@ -226,6 +245,7 @@
 | **Heian Bracers** | 8⭐ | Heian | 🟡 Gold Siege % |
 
 ### Ground General - Alexander Hamilton
+
 | 🎽 Equipment | ⭐ Stars | 🎨 Set | 💎 Refines |
 |-------------|----------|--------|------------|
 | **Aztec Obsidian Sword** | 5⭐ | Aztec | 🟡 Gold Ground % |
@@ -236,6 +256,7 @@
 | **Aztec Round Shield** | 5⭐ | Aztec | 🟡 Gold Ground % |
 
 ### Range General - Artemisia I
+
 | 🎽 Equipment | ⭐ Stars | 🎨 Set | 💎 Refines |
 |-------------|----------|--------|------------|
 | **Imperial Bow** | 5⭐ | Imperial | 🟡 Gold Range % |
@@ -246,6 +267,7 @@
 | **Plantagenet Ring** | 10⭐ | Plantagenet | 🟡 Gold Range % |
 
 ### Mount General - Olav II
+
 | 🎽 Equipment | ⭐ Stars | 🎨 Set | 💎 Refines |
 |-------------|----------|--------|------------|
 | **Imperial Spear** | 5⭐ | Imperial | 🟡 Gold Mount % |
@@ -262,6 +284,7 @@
 ## 📊 Resources & Production
 
 ### Resource Production (per hour)
+
 | 🏭 Resource | 📈 Production | 🎯 Target |
 |-------------|---------------|-----------|
 | **Food** | 5.39M/h | 6M/h |
@@ -270,6 +293,7 @@
 | **Ore** | 2.88M/h | 3.5M/h |
 
 ### Storage Capacity
+
 | 📦 Resource | 💾 Capacity |
 |-------------|-------------|
 | **Food** | 140B |
@@ -315,6 +339,7 @@
 ## 🐲 Dragon Configuration
 
 ### Active Dragons (On Primary Generals)
+
 | 🐲 Dragon | 📊 Level | 💎 Refines | 🎯 Talents | 📍 Assignment |
 |----------|----------|-------------|------------|---------------|
 | **Celtic Demon** | L20 | 🟡 Full Gold Range Attack | L100, L100, L60 | Main Range General |
@@ -325,6 +350,7 @@
 | **Thebes** | L19 | 🟡 Full Gold Mount HP Flat | L67, L100, L60 | Main Defense General |
 
 ### Available Dragons (Not Currently Used)
+
 | 🐲 Dragon | 📊 Level | 💎 Refines | 🎯 Talents | 📍 Status |
 |----------|----------|-------------|------------|-----------|
 | **Radiantwyrm** | L9 | None | L32, L13, L0 | 📋 Future Development |
@@ -336,6 +362,7 @@
 ## 👸 Champion Levels
 
 ### High-Level Champions (L20+)
+
 | 👸 Champion | 📊 Level | 📈 Status |
 |-------------|----------|-----------|
 | **Helen** | L23 | 🌟 Highest Level |
@@ -343,6 +370,7 @@
 | **Cassandra** | L20 | 🎯 Upgrade Target |
 
 ### Mid-Level Champions (L15-L19)
+
 | 👸 Champion | 📊 Level | 📈 Status |
 |-------------|----------|-----------|
 | **Elisabeth** | L18 | 🎯 Upgrade Target |
@@ -354,11 +382,13 @@
 | **Minerva** | L18 | 🎯 Upgrade Target |
 
 ### Low-Level Champions (L1-L14)
+
 | 👸 Champion | 📊 Level | 📈 Status |
 |-------------|----------|-----------|
 | **Nefertiti** | L8 | 🎯 Upgrade Target |
 
 ### Locked Champions
+
 | 👸 Champion | 📊 Status |
 |-------------|-----------|
 | **Marcia** | 🔒 Locked |
@@ -370,6 +400,7 @@
 ## 🌟 Additional Buffs & Systems
 
 ### Ideal Land Buffs
+
 | 💪 Buff Type | 📊 Value |
 |-------------|----------|
 | **March Capacity** | +13,500 |
@@ -385,6 +416,7 @@
 ### Civilization Card Buffs
 
 #### World Civilizations
+
 | 💪 Buff Type | 📊 Value |
 |-------------|----------|
 | **In-Rally Mount Attack** | +12% |
@@ -402,6 +434,7 @@
 | **Ground Attack** | +8% |
 
 #### Starry Pilgrimage
+
 | 💪 Buff Type | 📊 Value |
 |-------------|----------|
 | **Ground Defense** | +6% |
@@ -409,6 +442,7 @@
 | **In-Rally Range Attack** | +6% |
 
 #### Triumphal Celebration
+
 | 💪 Buff Type | 📊 Value |
 |-------------|----------|
 | **Defending Ground Defense** | +12% |
@@ -419,6 +453,7 @@
 | **Defending Siege Attack** | +14% |
 
 #### Heavenly Fire Ceremony
+
 | 💪 Buff Type | 📊 Value |
 |-------------|----------|
 | **RF Range Troop and Siege Defense** | +24% |
@@ -431,6 +466,7 @@
 ## ⚔️ Military Systems
 
 ### Military Tactics
+
 | 🎭 Troop Type | 🎯 Drill Level | 💥 Breakthrough Level |
 |---------------|----------------|----------------------|
 | **Ground** | L24 | L3 |
@@ -439,6 +475,7 @@
 | **Siege** | L19 | L2 |
 
 ### Coronation Fountain (Bottom to Top)
+
 | 🏛️ Layer | 📊 Level |
 |----------|----------|
 | **Poseidon's Command** | L16 |
@@ -449,6 +486,7 @@
 | **Hephaestus's Craftsmanship** | L16 |
 
 ### March Sizes (No Buffs)
+
 | 🎭 Troop Type | 📊 March Size |
 |---------------|---------------|
 | **Siege** | 4,276,700 |
@@ -461,6 +499,7 @@
 ## 🏗️ Building Upgrade Priorities
 
 ### 🔥 High Priority Upgrades
+
 | 🏢 Building | 🎯 Target Level | 💡 Benefits | 📋 Prerequisites |
 |-------------|-----------------|-------------|------------------|
 | **Rally Spot** | L43 | Rally Capacity | None |
@@ -470,6 +509,7 @@
 | **Pasture** | L41 | Unlock buffs | Warehouse L41 |
 
 ### 🎯 Medium Priority Upgrades  
+
 | 🏢 Building | 🎯 Target Level | 💡 Benefits | 📋 Prerequisites |
 |-------------|-----------------|-------------|------------------|
 | **Keep** | L44 | Unlock New Features | Walls L42 |
@@ -478,12 +518,14 @@
 | **Barracks** | L41 | +10% Ground Defense | None |
 
 ### 🌟 Long-term Goals
+
 | 🏢 Building | 🎯 Target Level | 💡 Benefits | 📋 Requirements |
 |-------------|-----------------|-------------|------------------|
 | **Triumphal Arch** | L3 | Rally/RF Capacity, Battlefield Buffs | All-stars Achievement |
 | **Ideal Land** | L5 | Construction Speed, Combat Buffs | 5000 Points |
 
 ### ❌ Do NOT Upgrade
+
 | 🏢 Building | 🔒 Current Level | ⚠️ Reason |
 |-------------|------------------|-----------|
 | **Trap Factory** | L36 | Resource waste |
@@ -505,6 +547,7 @@
 <summary>📋 Click to expand detailed march configurations</summary>
 
 ### 🏰 Big Siege Configuration
+
 | Tier | 🏰 Siege | 🪖 Ground | 🏹 Range | 🐎 Cavalry |
 |------|----------|-----------|----------|------------|
 | **T15** | 0 | 500 | 500 | 500 |
@@ -515,6 +558,7 @@
 | **T10-T01** | 10K-100K | 1K | 1K | 1K |
 
 ### 🏰 Little Siege Configuration  
+
 | Tier | 🏰 Siege | 🪖 Ground | 🏹 Range | 🐎 Cavalry |
 |------|----------|-----------|----------|------------|
 | **T15** | 0 | 500 | 500 | 500 |
@@ -525,6 +569,7 @@
 | **T10-T01** | 10K-100K | 1K | 1K | 1K |
 
 ### 🪖 Primary Ground Configuration
+
 | Tier | 🪖 Ground | 🏹 Range | 🐎 Cavalry | 🏰 Siege |
 |------|-----------|----------|------------|----------|
 | **T15** | 500 | 500 | 500 | 0 |
@@ -533,6 +578,7 @@
 | **T12-T01** | 1K | 1K | 1K | 1K |
 
 ### 🪖 Secondary Ground/RF Configuration
+
 | Tier | 🪖 Ground | 🏹 Range | 🐎 Cavalry | 🏰 Siege |
 |------|-----------|----------|------------|----------|
 | **T15** | 500K | 500 | 500 | 0 |
@@ -541,6 +587,7 @@
 | **T12-T01** | 1K | 1K | 1K | 1K |
 
 ### 🏹 Primary Range Configuration
+
 | Tier | 🏹 Range | 🪖 Ground | 🐎 Cavalry | 🏰 Siege |
 |------|----------|-----------|------------|----------|
 | **T15** | 100K | 500 | 500 | 0 |
@@ -550,6 +597,7 @@
 | **T11-T01** | 1K | 1K | 1K | 1K |
 
 ### 🏹 Secondary Range/RF Configuration
+
 | Tier | 🏹 Range | 🪖 Ground | 🐎 Cavalry | 🏰 Siege |
 |------|----------|-----------|------------|----------|
 | **T15** | 100K | 500 | 500 | 0 |
@@ -559,6 +607,7 @@
 | **T11-T01** | 1K | 1K | 1K | 1K |
 
 ### 🐎 Primary Mount Configuration
+
 | Tier | 🐎 Cavalry | 🪖 Ground | 🏹 Range | 🏰 Siege |
 |------|------------|-----------|----------|----------|
 | **T15** | 300K | 500 | 500 | 0 |
@@ -698,3 +747,4 @@ T01 Analysis:
 ---
 
 > **Last Updated:** Keep Level 43 progression | **Document Status:** All systems optimized ✅
+
