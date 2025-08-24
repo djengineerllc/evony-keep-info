@@ -543,9 +543,6 @@
 
 ## ⚔️ March Layer Configurations
 
-<details>
-<summary>📋 Click to expand detailed march configurations</summary>
-
 ### 🏰 Big Siege Configuration
 
 | Tier | 🏰 Siege | 🪖 Ground | 🏹 Range | 🐎 Cavalry |
@@ -615,8 +612,6 @@
 | **T13** | 1.5M | 1K | 1K | 1K |
 | **T12** | 250K | 1K | 1K | 1K |
 | **T11-T01** | 1K | 1K | 1K | 1K |
-
-</details>
 
 ---
 
@@ -747,4 +742,5 @@ T01 Analysis:
 ---
 
 > **Last Updated:** Keep Level 43 progression | **Document Status:** All systems optimized ✅
+
 
